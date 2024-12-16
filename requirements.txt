@@ -1,0 +1,4 @@
+mammoth
+requests
+beautifulsoup4
+python-docx
